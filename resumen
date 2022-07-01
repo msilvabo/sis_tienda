@@ -1,0 +1,27 @@
+PXP VIDEOS
+----------
+2021.06.17      php storm - configuracion base de datos                                 0.00
+                estructura de archivos y carpetas                                       0.20
+                archivo_sql.sql                                                         1.20
+                debug con parametros funcion sql                                        1.38
+                crea Modelo                                                             1.42
+2021.06.18      Vista controlador para SEL                                              0.04
+                Agregar Menu sistema                                                    0.19
+                Generador de codigo                                                     0.22
+2021.06.19      Combo box - campos relacionados otras tablas                            0.25
+                TabSouth - Partir la pantalla y relacionado a un campo seleccionado     2.31
+                Buttom filter en grilla - filtro en la base de la grilla                2.46
+2021.06.22      Herencia de vista - combos herencia y sobreescritura                    0.08
+                Boton en Interfaz - habilitar boton y seleccion de 1 registro           0.37
+                Llamar interfaz desde accion del boton                                  0.59
+                                abre interfaz                                           1.04
+                                cargado con pagina con parametros                       1.14
+                                paso de parametros a interfaz                           1.18
+                Eventos en interfaz                                                     1.25                
+                    agregar valor a otro campo partir de un combo                       1.57
+2021.06.23      Combo multiseleccion en vista - insercion de n registros tabla          0.30      
+2021.06.24      Combo multiseleccion en vista - edicion de n registros tabla            0.01                     
+                Filtro Combo Interfaz en el Menu                                        0.06
+                Combo sin tabla base                                                    0.43
+2021.06.25      Pestañas con filtros                                                    0.20
+2021.06.26      Venta de productos con factura                                          0.01     
